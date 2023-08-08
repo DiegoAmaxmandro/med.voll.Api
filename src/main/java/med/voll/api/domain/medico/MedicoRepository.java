@@ -16,11 +16,13 @@ public interface MedicoRepository extends JpaRepository<Medico,Long> {
            m.ativo = true
            and
            m.especialidade = :especialidade
-           and 
+           and
            m.id not in(
                 select c.medico.id from Consulta c
-                where 
+                where
                 c.data = :data
+           and
+                c.motivoCancelamento is null     
            )
            order by rand()
            limit 1
@@ -33,6 +35,6 @@ public interface MedicoRepository extends JpaRepository<Medico,Long> {
         where
         m.id = :id
 """)
-    Boolean findAtivoById(Long idMedico);
+    Boolean findAtivoById(Long id);
 }
 
