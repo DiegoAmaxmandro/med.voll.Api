@@ -8,16 +8,16 @@
 
 + **Development:** Craft a Java-based REST API utilizing Spring Boot from the ground up.
 + **CRUD Operations:** Implement Create, Read, Update, and Delete functionalities with a MySQL database backend.
-+Database Migrations: Incorporate Flyway for seamless API database migrations.
-+Data Validation: Utilize Bean Validation to ensure data integrity and correctness.
-+Data Management: Introduce pagination and sorting capabilities for efficient data handling in the API.
++ **Database Migrations:** Incorporate Flyway for seamless API database migrations.
++ **Data Validation:** Utilize Bean Validation to ensure data integrity and correctness.
++ **Data Management:** Introduce pagination and sorting capabilities for efficient data handling in the API.
 
-##Technologies Deployed
+## **Technologies Deployed**
 
-+Framework: Spring Boot 3s
-+Programming Language: Java 17
-+Code Simplification: Lombok
-+Database & Migrations: MySQL with Flyway
-+ORM: JPA and Hibernate
-+Project Management: Maven
-+API Testing: Insomnia
++ **Framework:** Spring Boot 3s
++ **Programming Language:** Java 17
++ **Code Simplification:** Lombok
++ **Database & Migrations:** MySQL with Flyway
++ **ORM:** JPA and Hibernate
++ **Project Management:** Maven
++ **API Testing:** Insomnia
