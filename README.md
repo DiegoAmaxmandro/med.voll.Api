@@ -21,3 +21,18 @@
 + **ORM:** JPA and Hibernate
 + **Project Management:** Maven
 + **API Testing:** Insomnia
+
+## **Objectives of the Second Phase**
+
++ **API Standardization:** Ensure consistent responses from API controllers.
++ **Error Management:** Streamline error handling processes.
++ **HTTP Protocols:** Employ the appropriate HTTP status codes to accurately reflect request results.
++ **Security Integration:** Integrate the Spring Security module into the project.
++ **Authentication & Authorization: ** Set up a robust mechanism in the API for user authentication and data access authorization.
++ **Access Control:** Implement precise controls for determining who can access which parts of the API.
++ **Token-Based Authentication:** Utilize Json Web Tokens (JWT) to regulate and verify API access.
+  
+## **Technologies Deployed**
++ **Communication Protocol:** HTTP
++ **Security Framework:** Spring Security
++ **Authentication:** Json Web Token (JWT)
