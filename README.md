@@ -46,3 +46,25 @@
 + **Automated Testing:** Acquire skills in crafting automated tests within a Spring Boot environment.
 + **App Construction:** Develop a full-fledged application leveraging the capabilities of Spring Boot.
 + **Deployment Readiness:** Utilize environment variables and make necessary preparations for seamless application deployment.
+
+## **Usage**
+This application facilitates a range of functionalities integral to a medical setup:
+
+### **Doctors:**
+
++ **Registration:** Add new doctors to the database.
++ **Listing:** View a comprehensive list of registered doctors.
++ **Update:** Modify details of existing doctors.
++ **Deletion:** Remove doctors from the database.
+  
+### **Patients:**
+
++ **Registration:** Enroll new patients into the system.
++ **Listing:** Browse through a directory of registered patients.
++ **Update:** Update patient information as needed.
++ **Deletion:** Safely remove patients from the system.
+  
+### **Appointments:**
+
++ **Scheduling:** Arrange appointments between doctors and patients.
++ **Canceling:** Facilitate easy cancellation of pre-scheduled appointments.
