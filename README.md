@@ -33,6 +33,16 @@
 + **Token-Based Authentication:** Utilize Json Web Tokens (JWT) to regulate and verify API access.
   
 ## **Technologies Deployed**
+
 + **Communication Protocol:** HTTP
 + **Security Framework:** Spring Security
 + **Authentication:** Json Web Token (JWT)
+
+ ## **Objectives of the Final Phase**
+ 
++ **Code Organization:** Master the art of isolating business logic within an application for cleaner architecture.
++ **Design Principles:** Implement the SOLID principles to ensure maintainability and scalability.
++ **API Documentation:** Produce comprehensive API documentation adhering to the OpenAPI standard.
++ **Automated Testing:** Acquire skills in crafting automated tests within a Spring Boot environment.
++ **App Construction:** Develop a full-fledged application leveraging the capabilities of Spring Boot.
++ **Deployment Readiness:** Utilize environment variables and make necessary preparations for seamless application deployment.
